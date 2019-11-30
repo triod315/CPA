@@ -1,3 +1,9 @@
+#Run code
+To run code type:
+```bash
+./run <filename>
+```
+
 # Chapter1:
 Lab 1.2.1 Your first program<br /> 
 Lab 1.3.1 Comments:are they always useful?<br />
