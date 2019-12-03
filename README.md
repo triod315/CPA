@@ -1,8 +1,15 @@
 # Run code
-To run code type:
+To run c++ or c code using g++ type:
 ```bash
-./run <filename>
+./run.sh <filename>
 ```
+
+To run c code using gcc type:
+```bash
+./runc.sh <filename>
+```
+
+# CLA Labworks list
 
 # Chapter1:
 Lab 1.2.1 Your first program<br /> 
